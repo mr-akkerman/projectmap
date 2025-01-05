@@ -168,7 +168,7 @@ projectmap/
 
 We welcome contributions! Here's how you can help:
 
-1. Check our [issues page](https://github.com/yourusername/projectmap/issues)
+1. Check our [issues page](https://github.com/mr-akkerman/projectmap/issues)
 2. Fork the repository
 3. Create a feature branch
 4. Write your changes
