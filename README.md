@@ -151,8 +151,6 @@ projectmap/
 
 
 ## Roadmap
-
-### Version 0.2.0
 - Color output support
 - Export to JSON/YAML
 - Export to image (PNG, SVG)
